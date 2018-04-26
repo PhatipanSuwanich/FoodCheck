@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729695366017",
+    "firebase_url": "https://foodcheck-fb586.firebaseio.com",
+    "project_id": "foodcheck-fb586",
+    "storage_bucket": "foodcheck-fb586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729695366017:android:188470b14905ade1",
+        "android_client_info": {
+          "package_name": "com.kmitl.tulaya.foodchecking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729695366017-rr9d5vif4ea6e3brthgli8tm8nuu4p0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmzLuWs9Ay8gtKCztbM_sK24Nw59tkYd0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
